@@ -1,0 +1,7 @@
+Link do github: https://github.com/milenaff/Desafio_2.git
+
+Orientações: 
+	- O caminho do arquivo texto deve ser digitado para o sistema encontrá-lo, caso não encontre ele informará que houve um erro.
+	- Será gerado um arquivo texto novo com as respostas das validações na pasta default do projeto, com o nome "Output.txt".
+	- O critério de entendimento do sistema é uma expressão por linha do arquivo texto.
+Desenvolvido por : Milena Ferreira de Paula, RA 082170022 EC6
